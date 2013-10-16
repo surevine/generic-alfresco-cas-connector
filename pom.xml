@@ -30,7 +30,8 @@
 	
 	<!-- Required by the release plugin -->
 	<scm>
-		<developerConnection>scm:svn:https://svn.surevine.net/integration/alfresco_connect_lib/tech/imp</developerConnection>
+		<!--<developerConnection>scm:svn:https://svn.surevine.net/integration/alfresco_connect_lib/tech/imp</developerConnection>-->
+		<developerConnection>scm:git://github.com:surevine/generic-alfresco-cas-connector.git</developerConnection>
 	</scm>
 	
 	<!-- D E P E N D E N C I E S -->
