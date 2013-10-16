@@ -26,12 +26,13 @@
 	<groupId>com.surevine.alfresco</groupId>
 	<artifactId>alfresco_connect_lib</artifactId>
 	<name>Alfresco Connector Library</name>
-	<version>1.3.4-SNAPSHOT</version>
+	<version>1.3.4</version>
 	
 	<!-- Required by the release plugin -->
 	<scm>
 		<developerConnection>scm:git:git@github.com:surevine/generic-alfresco-cas-connector.git</developerConnection>
-	</scm>
+	  <tag>alfresco_connect_lib-1.3.4</tag>
+  </scm>
 	
 	<!-- D E P E N D E N C I E S -->
 	<description>Alfresco libraries</description>
