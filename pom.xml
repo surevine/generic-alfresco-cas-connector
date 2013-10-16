@@ -143,9 +143,9 @@
 				<plugin>
 					<artifactId>maven-release-plugin</artifactId>
 					<version>2.1</version>
-					<configuration>
+					<!--<configuration>
 						<tagBase>https://svn.surevine.net/integration/alfresco_connect_lib/tech/tags</tagBase>
-					</configuration>
+					</configuration>-->
 				</plugin>
 			</plugins>
 		</pluginManagement>
