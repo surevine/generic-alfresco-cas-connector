@@ -30,7 +30,7 @@
 	
 	<!-- Required by the release plugin -->
 	<scm>
-		<developerConnection>scm:git:https://github.com/surevine/generic-alfresco-cas-connector.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:surevine/generic-alfresco-cas-connector.git</developerConnection>
 	</scm>
 	
 	<!-- D E P E N D E N C I E S -->
